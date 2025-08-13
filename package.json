@@ -1,0 +1,24 @@
+{
+  "name": "concepttest",
+  "version": "1.0.1",
+  "description": "",
+  "main": "HolaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version:qa": "node updateVersion.js",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseflorezv/conceptTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseflorezv/conceptTest/issues"
+  },
+  "homepage": "https://github.com/joseflorezv/conceptTest#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
